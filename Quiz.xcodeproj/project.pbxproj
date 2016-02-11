@@ -15,6 +15,7 @@
 		6D578EA91C6C1D1400A6B180 /* QuizUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D578EA81C6C1D1400A6B180 /* QuizUITests.m */; };
 		6D578EB91C6C1D9300A6B180 /* BNRQuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D578EB71C6C1D9300A6B180 /* BNRQuizViewController.m */; };
 		6D578EBA1C6C1D9300A6B180 /* BNRQuizViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6D578EB81C6C1D9300A6B180 /* BNRQuizViewController.xib */; };
+		6D578EBC1C6CCC3200A6B180 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D578EBB1C6CCC3100A6B180 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6D578EB61C6C1D9300A6B180 /* BNRQuizViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNRQuizViewController.h; sourceTree = "<group>"; };
 		6D578EB71C6C1D9300A6B180 /* BNRQuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BNRQuizViewController.m; sourceTree = "<group>"; };
 		6D578EB81C6C1D9300A6B180 /* BNRQuizViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BNRQuizViewController.xib; sourceTree = "<group>"; };
+		6D578EBB1C6CCC3100A6B180 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../../../.Trash/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				6D578EB71C6C1D9300A6B180 /* BNRQuizViewController.m */,
 				6D578EB81C6C1D9300A6B180 /* BNRQuizViewController.xib */,
 				6D578E8F1C6C1D1400A6B180 /* Assets.xcassets */,
+				6D578EBB1C6CCC3100A6B180 /* Main.storyboard */,
 				6D578E911C6C1D1400A6B180 /* LaunchScreen.storyboard */,
 				6D578E941C6C1D1400A6B180 /* Info.plist */,
 				6D578E831C6C1D1400A6B180 /* Supporting Files */,
@@ -246,6 +249,7 @@
 				6D578EBA1C6C1D9300A6B180 /* BNRQuizViewController.xib in Resources */,
 				6D578E931C6C1D1400A6B180 /* LaunchScreen.storyboard in Resources */,
 				6D578E901C6C1D1400A6B180 /* Assets.xcassets in Resources */,
+				6D578EBC1C6CCC3200A6B180 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -488,6 +492,7 @@
 				6D578EAF1C6C1D1400A6B180 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6D578EB01C6C1D1400A6B180 /* Build configuration list for PBXNativeTarget "QuizTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +501,7 @@
 				6D578EB21C6C1D1400A6B180 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6D578EB31C6C1D1400A6B180 /* Build configuration list for PBXNativeTarget "QuizUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +510,7 @@
 				6D578EB51C6C1D1400A6B180 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
